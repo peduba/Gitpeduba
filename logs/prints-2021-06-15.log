@@ -1,0 +1,9 @@
+18:05:55.647 [main] INFO  E2Eflow.Login - Launch url
+18:05:55.808 [main] INFO  E2Eflow.Login - Enter username
+18:05:55.916 [main] INFO  E2Eflow.Login - password
+18:05:59.694 [main] INFO  E2Eflow.Login - click on login button
+22:26:26.033 [main] INFO  E2Eflow.Login - Launch url
+22:26:26.343 [main] INFO  E2Eflow.Login - Enter username
+22:26:26.470 [main] INFO  E2Eflow.Login - password
+22:26:30.243 [main] INFO  E2Eflow.Login - click on login button
+22:48:01.956 [main] INFO  E2Eflow.Login - Launch url

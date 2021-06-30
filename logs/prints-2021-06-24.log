@@ -1,0 +1,9 @@
+17:24:56.865 [main] INFO  E2Eflow.LoginTest - Enter username
+17:24:56.992 [main] INFO  E2Eflow.LoginTest - password
+17:24:58.527 [main] INFO  E2Eflow.LoginTest - click on login button
+17:25:42.920 [main] INFO  E2Eflow.LoginTest - Launch url
+17:25:43.035 [main] INFO  E2Eflow.LoginTest - Enter username
+17:25:43.064 [main] INFO  E2Eflow.LoginTest - password
+17:25:44.756 [main] INFO  E2Eflow.LoginTest - click on login button
+09:57:42.871 [main] INFO  E2Eflow.LoginTest - Launch url
+09:57:43.082 [main] INFO  E2Eflow.LoginTest - Enter username

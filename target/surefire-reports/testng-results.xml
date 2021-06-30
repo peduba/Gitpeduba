@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-23T11:45:29Z" name="Suite" finished-at="2021-06-23T11:45:59Z" duration-ms="29572">
+    <groups>
+    </groups>
+    <test started-at="2021-06-23T11:45:29Z" name="Test" finished-at="2021-06-23T11:45:59Z" duration-ms="29572">
+      <class name="E2Eflow.Customer">
+        <test-method signature="customerCreation()[pri:0, instance:E2Eflow.Customer@160ac7fb]" started-at="2021-06-23T11:45:38Z" name="customerCreation" finished-at="2021-06-23T11:45:59Z" duration-ms="20634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerCreation -->
+      </class> <!-- E2Eflow.Customer -->
+      <class name="E2Eflow.LoginTest">
+        <test-method is-config="true" signature="config()[pri:0, instance:E2Eflow.LoginTest@3dddefd8]" started-at="2021-06-23T11:45:29Z" name="config" finished-at="2021-06-23T11:45:29Z" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method signature="loginPeduba()[pri:0, instance:E2Eflow.LoginTest@3dddefd8]" started-at="2021-06-23T11:45:29Z" name="loginPeduba" finished-at="2021-06-23T11:45:38Z" duration-ms="8659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPeduba -->
+      </class> <!-- E2Eflow.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
